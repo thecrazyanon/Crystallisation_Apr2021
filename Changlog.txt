@@ -1,0 +1,2 @@
+05/07/2017
+Reference variables for M0 and Concentration changed to allow for pure solvent regime. 
